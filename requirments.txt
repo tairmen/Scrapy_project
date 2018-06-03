@@ -1,0 +1,4 @@
+install scrapy
+install flask
+install pymongo
+download mongodb server
